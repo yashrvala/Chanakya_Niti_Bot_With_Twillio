@@ -1,0 +1,8 @@
+streamlit
+langchain
+openai
+duckduckgo-search
+python-dotenv
+twilio
+transformers
+torch
