@@ -1,5 +1,6 @@
 streamlit
 langchain
+langchain-community
 openai
 duckduckgo-search
 python-dotenv
